@@ -15,7 +15,8 @@ public class EjemploDeGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       //aca esta el main
+        System.out.println("hola mundo");
     }
     
 }
